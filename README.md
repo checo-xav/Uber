@@ -31,6 +31,8 @@ cd final_route (Eg: cd route/Users/checo_xav/Documents/Uber)
 pip install -r requirements.txt
 ```
 
+Do not foregt to upload the "BC_A&A_with_ATD.csv" file into Data 
+
 ## Run App
 
 ```bash
